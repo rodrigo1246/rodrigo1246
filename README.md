@@ -5,6 +5,7 @@
 
 ## Tecnologías
 - C++
+- JavaScript
 - Firebase
 - Git
 - Linux
