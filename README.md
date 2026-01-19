@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hola 👋 Soy Rodrigo
 
-<!--
-**rodrigo1246/rodrigo1246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Interesado en Inteligencia Artificial y Ciberseguridad  
+📍 Chile   
 
-Here are some ideas to get you started:
+## Tecnologías
+- C++
+- Firebase
+- Git
+- Linux
+- Uso de IA aplicada a sistemas reales
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Puedo iniciarme y aprender en corto periodo de tiempo a requerimientos solicitados
+
+## Contacto
+rodrigoalejandromunoz@gmail.com
